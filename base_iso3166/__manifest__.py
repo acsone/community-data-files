@@ -17,7 +17,7 @@
     ],
     'external_dependencies': {
         'python': [
-            'pycountry',
+            'pycountry<18.12.8',
         ],
     },
     "data": [
